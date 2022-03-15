@@ -1,0 +1,49 @@
+c:\users\juvniattta\documents\visual studio 2015\Projects\BookManager\BookManager\bin\Debug\BookManager.exe.config
+c:\users\juvniattta\documents\visual studio 2015\Projects\BookManager\BookManager\bin\Debug\BookManager.exe
+c:\users\juvniattta\documents\visual studio 2015\Projects\BookManager\BookManager\bin\Debug\BookManager.pdb
+c:\users\juvniattta\documents\visual studio 2015\Projects\BookManager\BookManager\obj\Debug\BookManager.csprojResolveAssemblyReference.cache
+c:\users\juvniattta\documents\visual studio 2015\Projects\BookManager\BookManager\obj\Debug\BookManager.Form1.resources
+c:\users\juvniattta\documents\visual studio 2015\Projects\BookManager\BookManager\obj\Debug\BookManager.Form2.resources
+c:\users\juvniattta\documents\visual studio 2015\Projects\BookManager\BookManager\obj\Debug\BookManager.Form3.resources
+c:\users\juvniattta\documents\visual studio 2015\Projects\BookManager\BookManager\obj\Debug\BookManager.Properties.Resources.resources
+c:\users\juvniattta\documents\visual studio 2015\Projects\BookManager\BookManager\obj\Debug\BookManager.csproj.GenerateResource.Cache
+c:\users\juvniattta\documents\visual studio 2015\Projects\BookManager\BookManager\obj\Debug\BookManager.exe
+c:\users\juvniattta\documents\visual studio 2015\Projects\BookManager\BookManager\obj\Debug\BookManager.pdb
+C:\Users\admin\Desktop\BookManager\BookManager\bin\Debug\BookManager.exe.config
+C:\Users\admin\Desktop\BookManager\BookManager\bin\Debug\BookManager.exe
+C:\Users\admin\Desktop\BookManager\BookManager\bin\Debug\BookManager.pdb
+C:\Users\admin\Desktop\BookManager\BookManager\obj\Debug\BookManager.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\BookManager\BookManager\obj\Debug\BookManager.Form1.resources
+C:\Users\admin\Desktop\BookManager\BookManager\obj\Debug\BookManager.Form2.resources
+C:\Users\admin\Desktop\BookManager\BookManager\obj\Debug\BookManager.Form3.resources
+C:\Users\admin\Desktop\BookManager\BookManager\obj\Debug\BookManager.Properties.Resources.resources
+C:\Users\admin\Desktop\BookManager\BookManager\obj\Debug\BookManager.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\BookManager\BookManager\obj\Debug\BookManager.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\BookManager\BookManager\obj\Debug\BookManager.exe
+C:\Users\admin\Desktop\BookManager\BookManager\obj\Debug\BookManager.pdb
+C:\Users\mjy07\Desktop\BookManager\BookManager\bin\Debug\BookManager.exe.config
+C:\Users\mjy07\Desktop\BookManager\BookManager\bin\Debug\BookManager.exe
+C:\Users\mjy07\Desktop\BookManager\BookManager\bin\Debug\BookManager.pdb
+C:\Users\mjy07\Desktop\BookManager\BookManager\obj\Debug\BookManager.csproj.AssemblyReference.cache
+C:\Users\mjy07\Desktop\BookManager\BookManager\obj\Debug\BookManager.Form1.resources
+C:\Users\mjy07\Desktop\BookManager\BookManager\obj\Debug\BookManager.Form2.resources
+C:\Users\mjy07\Desktop\BookManager\BookManager\obj\Debug\BookManager.Form3.resources
+C:\Users\mjy07\Desktop\BookManager\BookManager\obj\Debug\BookManager.Properties.Resources.resources
+C:\Users\mjy07\Desktop\BookManager\BookManager\obj\Debug\BookManager.csproj.GenerateResource.cache
+C:\Users\mjy07\Desktop\BookManager\BookManager\obj\Debug\BookManager.csproj.CoreCompileInputs.cache
+C:\Users\mjy07\Desktop\BookManager\BookManager\obj\Debug\BookManager.exe
+C:\Users\mjy07\Desktop\BookManager\BookManager\obj\Debug\BookManager.pdb
+C:\Users\mjy07\Desktop\BookManager\BookManager\obj\Debug\BookManager.Form4.resources
+F:\KOREATECH\4학년 (2021)\2학기\고급웹프로그래밍\기말고사\BookManager\BookManager\bin\Debug\BookManager.exe.config
+F:\KOREATECH\4학년 (2021)\2학기\고급웹프로그래밍\기말고사\BookManager\BookManager\bin\Debug\BookManager.exe
+F:\KOREATECH\4학년 (2021)\2학기\고급웹프로그래밍\기말고사\BookManager\BookManager\bin\Debug\BookManager.pdb
+F:\KOREATECH\4학년 (2021)\2학기\고급웹프로그래밍\기말고사\BookManager\BookManager\obj\Debug\BookManager.csproj.AssemblyReference.cache
+F:\KOREATECH\4학년 (2021)\2학기\고급웹프로그래밍\기말고사\BookManager\BookManager\obj\Debug\BookManager.Form1.resources
+F:\KOREATECH\4학년 (2021)\2학기\고급웹프로그래밍\기말고사\BookManager\BookManager\obj\Debug\BookManager.Form2.resources
+F:\KOREATECH\4학년 (2021)\2학기\고급웹프로그래밍\기말고사\BookManager\BookManager\obj\Debug\BookManager.Form3.resources
+F:\KOREATECH\4학년 (2021)\2학기\고급웹프로그래밍\기말고사\BookManager\BookManager\obj\Debug\BookManager.Form4.resources
+F:\KOREATECH\4학년 (2021)\2학기\고급웹프로그래밍\기말고사\BookManager\BookManager\obj\Debug\BookManager.Properties.Resources.resources
+F:\KOREATECH\4학년 (2021)\2학기\고급웹프로그래밍\기말고사\BookManager\BookManager\obj\Debug\BookManager.csproj.GenerateResource.cache
+F:\KOREATECH\4학년 (2021)\2학기\고급웹프로그래밍\기말고사\BookManager\BookManager\obj\Debug\BookManager.csproj.CoreCompileInputs.cache
+F:\KOREATECH\4학년 (2021)\2학기\고급웹프로그래밍\기말고사\BookManager\BookManager\obj\Debug\BookManager.exe
+F:\KOREATECH\4학년 (2021)\2학기\고급웹프로그래밍\기말고사\BookManager\BookManager\obj\Debug\BookManager.pdb
