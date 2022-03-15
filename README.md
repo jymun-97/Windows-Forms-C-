@@ -1,6 +1,7 @@
 # Windows-Forms-C-
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fa459832-265d-40d5-9ab7-6479a18fd3fa/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/89020936/158409738-0c500a76-533f-4ec7-be30-dd13a810eea4.png)
+
 
 # Topic
 
@@ -23,9 +24,6 @@
 - 사용자 편의를 위한 UI 구성
 
 ## 스크린샷
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7d0838a9-bdcd-4529-9028-a6951c5dab00/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/40567a3a-8b92-4f60-b069-bcdaafa258fe/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c22b8376-19f9-4a4b-aaa4-68a66ce4e398/Untitled.png)
+![1](https://user-images.githubusercontent.com/89020936/158409767-1de8cdbd-0535-4918-95d8-b7c74e6dc80e.png)
+![2](https://user-images.githubusercontent.com/89020936/158409773-f722ecbc-ace7-4789-afe0-d9d1a3ae710b.png)
+![3](https://user-images.githubusercontent.com/89020936/158409774-4039ecf3-3fa3-4e69-9703-37bdcf9db0fa.png)
